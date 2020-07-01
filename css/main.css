@@ -1,0 +1,19 @@
+calc{
+    border: 1px solid grey;
+    padding: 30px;
+    border-radius: 14px;
+}
+.navbar,.nav-link
+{
+    background-color: black;
+    text-emphasis-color: white;
+    text-align: right;
+    margin-left: 10px;
+    margin-right: 10px;  
+    float: right;
+}
+#button-1{
+    position:absolute;
+    bottom: 5%;
+    right:20%;
+}
